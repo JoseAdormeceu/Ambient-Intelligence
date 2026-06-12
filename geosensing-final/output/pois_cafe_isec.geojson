@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "pois_cafe_isec",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": "251572920", "lastchange": null, "code": "2303", "fclass": "cafe", "name": "Café Dom João" }, "geometry": { "type": "Point", "coordinates": [ -8.4175014, 40.1996106 ] } },
+{ "type": "Feature", "properties": { "osm_id": "251607375", "lastchange": null, "code": "2303", "fclass": "cafe", "name": "A Tasquinha do João" }, "geometry": { "type": "Point", "coordinates": [ -8.4173123, 40.1997458 ] } },
+{ "type": "Feature", "properties": { "osm_id": "251898013", "lastchange": null, "code": "2303", "fclass": "cafe", "name": "Esquininha" }, "geometry": { "type": "Point", "coordinates": [ -8.4117181, 40.1999472 ] } },
+{ "type": "Feature", "properties": { "osm_id": "251900607", "lastchange": null, "code": "2303", "fclass": "cafe", "name": "Mónaco" }, "geometry": { "type": "Point", "coordinates": [ -8.4116881, 40.1994624 ] } },
+{ "type": "Feature", "properties": { "osm_id": "344188995", "lastchange": null, "code": "2303", "fclass": "cafe", "name": "Pastelaria Arco-Íris" }, "geometry": { "type": "Point", "coordinates": [ -8.4152452, 40.1955928 ] } },
+{ "type": "Feature", "properties": { "osm_id": "762927476", "lastchange": null, "code": "2303", "fclass": "cafe", "name": "Pastelaria Doce Beira" }, "geometry": { "type": "Point", "coordinates": [ -8.4028266, 40.1956296 ] } },
+{ "type": "Feature", "properties": { "osm_id": "762927581", "lastchange": null, "code": "2303", "fclass": "cafe", "name": "Chá dos 5" }, "geometry": { "type": "Point", "coordinates": [ -8.4045127, 40.1954899 ] } },
+{ "type": "Feature", "properties": { "osm_id": "1305397458", "lastchange": null, "code": "2303", "fclass": "cafe", "name": null }, "geometry": { "type": "Point", "coordinates": [ -8.4165188, 40.1866979 ] } },
+{ "type": "Feature", "properties": { "osm_id": "1305397468", "lastchange": null, "code": "2303", "fclass": "cafe", "name": null }, "geometry": { "type": "Point", "coordinates": [ -8.4150282, 40.1855232 ] } },
+{ "type": "Feature", "properties": { "osm_id": "1727248460", "lastchange": null, "code": "2303", "fclass": "cafe", "name": null }, "geometry": { "type": "Point", "coordinates": [ -8.4109425, 40.1927461 ] } },
+{ "type": "Feature", "properties": { "osm_id": "1727248468", "lastchange": null, "code": "2303", "fclass": "cafe", "name": null }, "geometry": { "type": "Point", "coordinates": [ -8.4126614, 40.19289 ] } },
+{ "type": "Feature", "properties": { "osm_id": "1806941146", "lastchange": null, "code": "2303", "fclass": "cafe", "name": null }, "geometry": { "type": "Point", "coordinates": [ -8.3982487, 40.1932683 ] } },
+{ "type": "Feature", "properties": { "osm_id": "2104629055", "lastchange": null, "code": "2303", "fclass": "cafe", "name": "Itália Bar" }, "geometry": { "type": "Point", "coordinates": [ -8.418682, 40.19402 ] } }
+]
+}

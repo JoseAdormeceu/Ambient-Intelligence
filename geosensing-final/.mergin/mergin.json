@@ -1,0 +1,82 @@
+{
+  "created_at": "2026-06-09T15:45:21Z",
+  "files": [
+    {
+      "checksum": "6118ad2a786f451a4defb91d3ca1d04570f5dec6",
+      "mtime": "2026-06-09T15:45:21Z",
+      "path": "Survey_points.gpkg",
+      "size": 98304
+    },
+    {
+      "checksum": "a256611b853535f6e0f28f5f35ba6fa33e0360a8",
+      "mtime": "2026-06-09T15:45:21Z",
+      "path": "cache/08c487e4bbee8e1fa1bac56cfc434da267b5940b.json",
+      "size": 418699
+    },
+    {
+      "checksum": "59ecf2e5d81197bf160aee08b301011e6f04311b",
+      "mtime": "2026-06-09T15:45:21Z",
+      "path": "cache/483a27e70902c98e9660c011ba2298db3c560c6e.json",
+      "size": 241202
+    },
+    {
+      "checksum": "f700d46a7ef9ec528d23b8ca595027457d890e82",
+      "mtime": "2026-06-09T15:45:21Z",
+      "path": "estradas_coimbra_dgt.geojson",
+      "size": 4028872
+    },
+    {
+      "checksum": "9abac43d0a8c980e06033d276b93a4758380a127",
+      "mtime": "2026-06-09T15:45:21Z",
+      "path": "paragens_coimbra.geojson",
+      "size": 1223166
+    },
+    {
+      "checksum": "b370de4c458a0c88eb1b03105b15fd91bc4f0fce",
+      "mtime": "2026-06-09T15:45:21Z",
+      "path": "pois_coimbra_dgt.geojson",
+      "size": 86241
+    },
+    {
+      "checksum": "435fd915e8363937f124e8fbfe300efca4a65266",
+      "mtime": "2026-06-09T15:45:21Z",
+      "path": "pois_hospital_coimbra.geojson",
+      "size": 1975
+    },
+    {
+      "checksum": "ecbfff81f3bf0038a6ee2f3a11ae0860b252cfb9",
+      "mtime": "2026-06-09T15:45:21Z",
+      "path": "reporting.gpkg",
+      "size": 98304
+    },
+    {
+      "checksum": "4bd0d5acdca05288cc2e5590cb91a75aaa1bb4cd",
+      "mtime": "2026-06-09T15:45:21Z",
+      "path": "events.gpkg",
+      "size": 98304
+    },
+    {
+      "checksum": "2d0613ad43143b27a61a65c216b9272442bfb7ec",
+      "mtime": "2026-06-09T16:20:50Z",
+      "path": "pois_geosensing.gpkg",
+      "size": 98304
+    },
+    {
+      "checksum": "43643ff88a730ac632ef221a02f53fd727a1d2c9",
+      "mtime": "2026-06-09T16:20:25Z",
+      "path": "GeoSensing.qgz",
+      "size": 24235
+    }
+  ],
+  "id": "4a9a1b75-6eb9-4a00-bc31-c99858abf4a0",
+  "name": "geosensing-final3",
+  "public": false,
+  "role": "owner",
+  "size": 6417606,
+  "updated_at": "2026-06-09T16:20:50Z",
+  "version": "v6",
+  "workspace": {
+    "id": 135054,
+    "name": "teste123123"
+  }
+}

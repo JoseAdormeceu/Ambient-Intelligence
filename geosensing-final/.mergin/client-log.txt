@@ -1,0 +1,202 @@
+2026-06-09 16:46:04,857 --- version: Python-client/0.13.1 Plugin/2026.4.2 QGIS/4.0.2 (Windows/11)
+2026-06-09 16:46:04,857 --- start download teste123123/geosensing-final3
+2026-06-09 16:46:05,133 got project info. version v1
+2026-06-09 16:46:05,133 will download 12 files in 12 chunks, total size 6412023
+2026-06-09 16:46:05,134 Downloading Survey_points.gpkg version=v1 diff=False part=0
+2026-06-09 16:46:05,134 Downloading cache/08c487e4bbee8e1fa1bac56cfc434da267b5940b.json version=v1 diff=False part=0
+2026-06-09 16:46:05,135 Downloading cache/483a27e70902c98e9660c011ba2298db3c560c6e.json version=v1 diff=False part=0
+2026-06-09 16:46:05,136 Downloading estradas_coimbra_dgt.geojson version=v1 diff=False part=0
+2026-06-09 16:46:05,398 Download finished: cache/483a27e70902c98e9660c011ba2298db3c560c6e.json
+2026-06-09 16:46:05,412 Download finished: Survey_points.gpkg
+2026-06-09 16:46:05,460 Download finished: estradas_coimbra_dgt.geojson
+2026-06-09 16:46:05,466 Download finished: cache/08c487e4bbee8e1fa1bac56cfc434da267b5940b.json
+2026-06-09 16:46:05,519 Downloading paragens_coimbra.geojson version=v1 diff=False part=0
+2026-06-09 16:46:05,602 Downloading pois_coimbra_dgt.geojson version=v1 diff=False part=0
+2026-06-09 16:46:05,624 Downloading pois_hospital_coimbra.geojson version=v1 diff=False part=0
+2026-06-09 16:46:05,790 Download finished: paragens_coimbra.geojson
+2026-06-09 16:46:05,870 Download finished: pois_coimbra_dgt.geojson
+2026-06-09 16:46:05,884 Download finished: pois_hospital_coimbra.geojson
+2026-06-09 16:46:05,885 Downloading GeoSensing.qgz version=v1 diff=False part=0
+2026-06-09 16:46:05,968 Downloading reporting.gpkg version=v1 diff=False part=0
+2026-06-09 16:46:06,013 Downloading pois_geosensing.gpkg version=v1 diff=False part=0
+2026-06-09 16:46:06,105 Downloading events.gpkg version=v1 diff=False part=0
+2026-06-09 16:46:06,173 Download finished: GeoSensing.qgz
+2026-06-09 16:46:06,174 Downloading edificios_isec.shp version=v1 diff=False part=0
+2026-06-09 16:46:06,234 Download finished: reporting.gpkg
+2026-06-09 16:46:06,277 Download finished: pois_geosensing.gpkg
+2026-06-09 16:46:06,371 Download finished: events.gpkg
+2026-06-09 16:46:06,456 Download finished: edificios_isec.shp
+2026-06-09 16:46:06,556 --- download finished
+2026-06-09 16:49:59,062 --- version: Python-client/0.13.1 Plugin/2026.4.2 QGIS/4.0.2 (Windows/11)
+2026-06-09 16:49:59,063 --- start pull teste123123/geosensing-final3
+2026-06-09 16:49:59,289 Using v2 pull delta endpoint
+2026-06-09 16:49:59,528 got project versions: local version v1 / server version v1
+2026-06-09 16:49:59,528 --- pull - nothing to do (already at server version)
+2026-06-09 16:49:59,795 --- version: Python-client/0.13.1 Plugin/2026.4.2 QGIS/4.0.2 (Windows/11)
+2026-06-09 16:49:59,795 --- start push teste123123/geosensing-final3
+2026-06-09 16:49:59,795 got project info: local version v1
+2026-06-09 16:50:00,045 -- Push changes --
+2026-06-09 16:50:00,045 {'added': [],
+ 'removed': [{'checksum': '878e4936560fea95e942da9e7cf3a9e3692e6531',
+              'mtime': '2026-06-09T15:45:21Z',
+              'path': 'edificios_isec.shp',
+              'size': 3248,
+              'version': 'v1'}],
+ 'renamed': [],
+ 'updated': [{'checksum': '4ad4a2ee225b917c612f9bd1ffd8dcf1047ff7d7',
+              'chunks': ['87574e39-398c-44c8-8155-a15841c8516c'],
+              'mtime': datetime.datetime(2026, 6, 9, 16, 41, 54, tzinfo=tzlocal()),
+              'origin_checksum': '89a9053b9d2cb99d318a6fc45ca62b29f1a0053d',
+              'path': 'GeoSensing.qgz',
+              'size': 15407}]}
+2026-06-09 16:50:00,045 2
+2026-06-09 16:50:00,045 push changes:
+{'added': [],
+ 'removed': [{'checksum': '878e4936560fea95e942da9e7cf3a9e3692e6531',
+              'chunks': [],
+              'diff': None,
+              'diffs': None,
+              'history': None,
+              'location': None,
+              'mtime': '2026-06-09T15:45:21Z',
+              'origin_checksum': None,
+              'path': 'edificios_isec.shp',
+              'size': 3248,
+              'upload_file': None,
+              'version': 'v1'}],
+ 'updated': [{'checksum': '4ad4a2ee225b917c612f9bd1ffd8dcf1047ff7d7',
+              'chunks': ['87574e39-398c-44c8-8155-a15841c8516c'],
+              'diff': None,
+              'diffs': None,
+              'history': None,
+              'location': None,
+              'mtime': datetime.datetime(2026, 6, 9, 16, 41, 54, tzinfo=tzlocal()),
+              'origin_checksum': '89a9053b9d2cb99d318a6fc45ca62b29f1a0053d',
+              'path': 'GeoSensing.qgz',
+              'size': 15407,
+              'upload_file': None,
+              'version': None}]}
+2026-06-09 16:50:00,300 Starting upload chunks for project 4a9a1b75-6eb9-4a00-bc31-c99858abf4a0
+2026-06-09 16:50:00,300 will upload 1 items with total size 15407
+2026-06-09 16:50:00,302 Uploading C:\Users\josem\Desktop\AI 2\geosensing-final\geosensing-final3\GeoSensing.qgz part=0
+2026-06-09 16:50:00,609 Upload chunk 61462966-5652-4fa5-9461-0a2b2c241f85 finished: C:\Users\josem\Desktop\AI 2\geosensing-final\geosensing-final3\GeoSensing.qgz
+2026-06-09 16:50:00,624 Finishing transaction for project teste123123/geosensing-final3
+2026-06-09 16:50:01,091 --- push finished - new project version v2
+2026-06-09 16:50:01,106 -- Push changes --
+2026-06-09 16:50:01,106 {'added': [], 'removed': [], 'renamed': [], 'updated': []}
+2026-06-09 16:50:01,106 0
+2026-06-09 17:13:01,471 --- version: Python-client/0.13.1 Plugin/2026.4.2 QGIS/4.0.2 (Windows/11)
+2026-06-09 17:13:01,472 --- start pull teste123123/geosensing-final3
+2026-06-09 17:13:01,472 Using v2 pull delta endpoint
+2026-06-09 17:13:01,712 got project versions: local version v2 / server version v2
+2026-06-09 17:13:01,712 --- pull - nothing to do (already at server version)
+2026-06-09 17:13:01,983 --- version: Python-client/0.13.1 Plugin/2026.4.2 QGIS/4.0.2 (Windows/11)
+2026-06-09 17:13:01,983 --- start push teste123123/geosensing-final3
+2026-06-09 17:13:01,983 got project info: local version v2
+2026-06-09 17:13:01,992 -- Push changes --
+2026-06-09 17:13:01,992 {'added': [],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': [{'checksum': '3f1cdc695047a73c2646d6602eff5817f8fb2d49',
+              'chunks': ['fae2c60e-91fb-4b91-aca9-06843da3508f'],
+              'mtime': datetime.datetime(2026, 6, 9, 17, 12, 58, 542652, tzinfo=tzlocal()),
+              'origin_checksum': '4ad4a2ee225b917c612f9bd1ffd8dcf1047ff7d7',
+              'path': 'GeoSensing.qgz',
+              'size': 22840}]}
+2026-06-09 17:13:01,992 1
+2026-06-09 17:13:01,992 push changes:
+{'added': [],
+ 'removed': [],
+ 'updated': [{'checksum': '3f1cdc695047a73c2646d6602eff5817f8fb2d49',
+              'chunks': ['fae2c60e-91fb-4b91-aca9-06843da3508f'],
+              'diff': None,
+              'diffs': None,
+              'history': None,
+              'location': None,
+              'mtime': datetime.datetime(2026, 6, 9, 17, 12, 58, 542652, tzinfo=tzlocal()),
+              'origin_checksum': '4ad4a2ee225b917c612f9bd1ffd8dcf1047ff7d7',
+              'path': 'GeoSensing.qgz',
+              'size': 22840,
+              'upload_file': None,
+              'version': None}]}
+2026-06-09 17:13:02,250 Starting upload chunks for project 4a9a1b75-6eb9-4a00-bc31-c99858abf4a0
+2026-06-09 17:13:02,250 will upload 1 items with total size 22840
+2026-06-09 17:13:02,252 Uploading C:\Users\josem\Desktop\AI 2\geosensing-final\geosensing-final3\GeoSensing.qgz part=0
+2026-06-09 17:13:02,564 Upload chunk 714bb204-6a6f-48d1-91d5-f21e9951b7be finished: C:\Users\josem\Desktop\AI 2\geosensing-final\geosensing-final3\GeoSensing.qgz
+2026-06-09 17:13:02,578 Finishing transaction for project teste123123/geosensing-final3
+2026-06-09 17:13:03,042 --- push finished - new project version v3
+2026-06-09 17:13:03,060 -- Push changes --
+2026-06-09 17:13:03,060 {'added': [], 'removed': [], 'renamed': [], 'updated': []}
+2026-06-09 17:13:03,060 0
+2026-06-09 17:20:23,881 --- version: Python-client/0.13.1 Plugin/2026.4.2 QGIS/4.0.2 (Windows/11)
+2026-06-09 17:20:23,881 --- start pull teste123123/geosensing-final3
+2026-06-09 17:20:23,881 Using v2 pull delta endpoint
+2026-06-09 17:20:24,127 got project versions: local version v3 / server version v4
+2026-06-09 17:20:24,136 will download 1 chunks, total size 0
+2026-06-09 17:20:24,137 Downloading diff pois_geosensing.gpkg-diff-ce707c7d-fdbb-4494-b66e-a9b2022aca62
+2026-06-09 17:20:24,401 Download finished: pois_geosensing.gpkg-diff-ce707c7d-fdbb-4494-b66e-a9b2022aca62
+2026-06-09 17:20:24,465 finalizing pull
+2026-06-09 17:20:24,743 --- applying pull actions [PullAction(type=<PullActionType.APPLY_DIFF_NO_REBASE: 'apply_diff_no_rebase'>, path='pois_geosensing.gpkg')]
+2026-06-09 17:20:24,743 updating file without rebase: pois_geosensing.gpkg
+2026-06-09 17:20:24,773 update successful
+2026-06-09 17:20:24,774 --- pull finished -- at version v4
+2026-06-09 17:20:25,044 --- version: Python-client/0.13.1 Plugin/2026.4.2 QGIS/4.0.2 (Windows/11)
+2026-06-09 17:20:25,044 --- start push teste123123/geosensing-final3
+2026-06-09 17:20:25,044 got project info: local version v4
+2026-06-09 17:20:25,060 -- Push changes --
+2026-06-09 17:20:25,060 {'added': [],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': [{'checksum': '43643ff88a730ac632ef221a02f53fd727a1d2c9',
+              'chunks': ['bdedc8ea-45a1-4d47-8a08-8335789232a8'],
+              'mtime': datetime.datetime(2026, 6, 9, 17, 20, 18, 797285, tzinfo=tzlocal()),
+              'origin_checksum': '3f1cdc695047a73c2646d6602eff5817f8fb2d49',
+              'path': 'GeoSensing.qgz',
+              'size': 24235}]}
+2026-06-09 17:20:25,060 1
+2026-06-09 17:20:25,060 push changes:
+{'added': [],
+ 'removed': [],
+ 'updated': [{'checksum': '43643ff88a730ac632ef221a02f53fd727a1d2c9',
+              'chunks': ['bdedc8ea-45a1-4d47-8a08-8335789232a8'],
+              'diff': None,
+              'diffs': None,
+              'history': None,
+              'location': None,
+              'mtime': datetime.datetime(2026, 6, 9, 17, 20, 18, 797285, tzinfo=tzlocal()),
+              'origin_checksum': '3f1cdc695047a73c2646d6602eff5817f8fb2d49',
+              'path': 'GeoSensing.qgz',
+              'size': 24235,
+              'upload_file': None,
+              'version': None}]}
+2026-06-09 17:20:25,312 Starting upload chunks for project 4a9a1b75-6eb9-4a00-bc31-c99858abf4a0
+2026-06-09 17:20:25,312 will upload 1 items with total size 24235
+2026-06-09 17:20:25,314 Uploading C:\Users\josem\Desktop\AI 2\geosensing-final\geosensing-final3\GeoSensing.qgz part=0
+2026-06-09 17:20:25,617 Upload chunk 6c58b9c6-abed-4ae8-9335-4d43127e530b finished: C:\Users\josem\Desktop\AI 2\geosensing-final\geosensing-final3\GeoSensing.qgz
+2026-06-09 17:20:25,640 Finishing transaction for project teste123123/geosensing-final3
+2026-06-09 17:20:26,135 --- push finished - new project version v5
+2026-06-09 17:20:26,158 -- Push changes --
+2026-06-09 17:20:26,158 {'added': [], 'removed': [], 'renamed': [], 'updated': []}
+2026-06-09 17:20:26,158 0
+2026-06-09 17:21:03,903 --- version: Python-client/0.13.1 Plugin/2026.4.2 QGIS/4.0.2 (Windows/11)
+2026-06-09 17:21:03,903 --- start pull teste123123/geosensing-final3
+2026-06-09 17:21:03,903 Using v2 pull delta endpoint
+2026-06-09 17:21:04,137 got project versions: local version v5 / server version v6
+2026-06-09 17:21:04,152 will download 1 chunks, total size 0
+2026-06-09 17:21:04,153 Downloading diff pois_geosensing.gpkg-diff-3e1bd08c-e550-42ec-b708-a859cc4b1cbb
+2026-06-09 17:21:04,420 Download finished: pois_geosensing.gpkg-diff-3e1bd08c-e550-42ec-b708-a859cc4b1cbb
+2026-06-09 17:21:04,481 finalizing pull
+2026-06-09 17:21:04,745 --- applying pull actions [PullAction(type=<PullActionType.APPLY_DIFF_NO_REBASE: 'apply_diff_no_rebase'>, path='pois_geosensing.gpkg')]
+2026-06-09 17:21:04,745 updating file without rebase: pois_geosensing.gpkg
+2026-06-09 17:21:04,777 update successful
+2026-06-09 17:21:04,777 --- pull finished -- at version v6
+2026-06-09 17:21:05,048 --- version: Python-client/0.13.1 Plugin/2026.4.2 QGIS/4.0.2 (Windows/11)
+2026-06-09 17:21:05,048 --- start push teste123123/geosensing-final3
+2026-06-09 17:21:05,048 got project info: local version v6
+2026-06-09 17:21:05,065 -- Push changes --
+2026-06-09 17:21:05,065 {'added': [], 'removed': [], 'renamed': [], 'updated': []}
+2026-06-09 17:21:05,065 0
+2026-06-09 17:21:05,065 --- push teste123123/geosensing-final3 - nothing to do
+2026-06-09 17:21:05,086 -- Push changes --
+2026-06-09 17:21:05,086 {'added': [], 'removed': [], 'renamed': [], 'updated': []}
+2026-06-09 17:21:05,086 0

@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "pois_hospital_clusters",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": "251614925", "lastchange": null, "code": "2110", "fclass": "hospital", "name": "Hospital Militar Regional 2", "cluster": "-1" }, "geometry": { "type": "Point", "coordinates": [ -8.4208649, 40.2036132 ] } },
+{ "type": "Feature", "properties": { "osm_id": "259447572", "lastchange": null, "code": "2110", "fclass": "hospital", "name": "Hospitais da Universidade de Coimbra - Blocos de Celas", "cluster": "-1" }, "geometry": { "type": "Point", "coordinates": [ -8.408658, 40.2201252 ] } },
+{ "type": "Feature", "properties": { "osm_id": "1262693950", "lastchange": null, "code": "2110", "fclass": "hospital", "name": "Maternidade Doutor Daniel de Matos", "cluster": "-1" }, "geometry": { "type": "Point", "coordinates": [ -8.4114402, 40.2076378 ] } },
+{ "type": "Feature", "properties": { "osm_id": "1301476259", "lastchange": null, "code": "2110", "fclass": "hospital", "name": "Hospital de SÃ£o Pedro e SÃ£o Domingos da MisericÃ³rdia", "cluster": "-1" }, "geometry": { "type": "Point", "coordinates": [ -8.5838638, 40.2251971 ] } },
+{ "type": "Feature", "properties": { "osm_id": "1414903976", "lastchange": null, "code": "2110", "fclass": "hospital", "name": "Centro de SaÃºde de Cernache", "cluster": "-1" }, "geometry": { "type": "Point", "coordinates": [ -8.4659879, 40.1371922 ] } },
+{ "type": "Feature", "properties": { "osm_id": "1814700332", "lastchange": null, "code": "2110", "fclass": "hospital", "name": "Centro de SaÃºde de Eiras - ExtensÃ£o de Torre de Vilela", "cluster": "-1" }, "geometry": { "type": "Point", "coordinates": [ -8.427023, 40.2705413 ] } },
+{ "type": "Feature", "properties": { "osm_id": "2136244172", "lastchange": null, "code": "2110", "fclass": "hospital", "name": "Instituto PortuguÃªs Oncologia de Coimbra Francisco Gentil E. P. E.", "cluster": "-1" }, "geometry": { "type": "Point", "coordinates": [ -8.4094918, 40.2178416 ] } }
+]
+}

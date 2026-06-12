@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "centroide_cluster",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "cluster": "0", "n_pois": "7" }, "geometry": { "type": "Point", "coordinates": [ -8.420901914285714, 40.2095635 ] } }
+]
+}
